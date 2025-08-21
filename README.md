@@ -2,9 +2,9 @@
 Training 
 
 ## Install 
-git
-python
-vs code
+* git
+* python
+* vs code
 
 ## Clone code to your system
 `
